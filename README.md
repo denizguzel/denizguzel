@@ -20,6 +20,9 @@
 
 ![keycloak] ![nrwl]
 
+### Resume
+https://denizguzel.github.io/resume/
+
 ### Also
 
 <p>
