@@ -21,7 +21,7 @@
 ![keycloak] ![nrwl]
 
 ### Resume
-https://denizguzel.github.io/resume/
+https://denizguzel.vercel.app/
 
 ### Also
 
