@@ -1,26 +1,49 @@
 ## 🧶 Front-end Developer, curious about Back-end.
 
-![es6]
+Languages
 
-![angular] ![rxjs] ![ngxs] ![ngrx] ![typescript] ![universal]
+![esnext] ![typescript] ![go]
+
+Frameworks
+
+![react] ![nextjs] ![angular] ![vuejs]
+
+Libs
+
+![mantine] ![redux] ![styledcomponents]
+
+![rxjs] ![ngxs] ![ngrx]
+
+Testing
 
 ![jest] ![puppeteer]
 
-![bootstrap] ![sass] ![html5] ![css3]
+UI
 
-![react] ![redux] ![mobx] ![styledcomponents] ![nextjs]
+![sass] ![bootstrap] ![html5] ![css3]
 
-![vuejs]
+Backend
 
-![patternlab] ![fractal] ![twig] ![storybook]
+![nodejs] ![express] ![nestjs]
 
-![nodejs] ![nestjs] ![express]
+Development
 
-![git] ![yarn] ![npm] ![webpack] ![prettier]
+![eslint] ![prettier] ![storybook]
 
-![keycloak] ![nrwl]
+Bundlers
+
+![vite] ![webpack]
+
+Package Managers
+
+![yarn] ![pnpm] ![npm]
+
+Tools
+
+![git] ![github] ![bitbucket] ![jira]
 
 ### Resume
+
 https://denizguzel.vercel.app/
 
 ### Also
@@ -32,36 +55,46 @@ https://denizguzel.vercel.app/
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@denizguzel" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-[es6]: https://img.shields.io/badge/ES6-F0D53B?logo=JavaScript&logoColor=000 "ECMAScript 6"
-[angular]: https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white "Angular"
-[rxjs]: https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white "RxJS"
-[ngxs]: https://img.shields.io/badge/NGXS-1D00FF?logo=ngxs&logoColor=white "NGXS"
-[ngrx]: https://img.shields.io/badge/NGRX-4B314F?logo=ngrx&logoColor=white "NGRX"
-[typescript]: https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white "Typescript"
-[universal]: https://img.shields.io/badge/Angular_Universal-00ACC1?logo=angular-universal&logoColor=white "Angular Universal"
-[jest]: https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white "Jest"
-[puppeteer]: https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white "Puppeteer"
-[bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white "Bootstrap"
-[sass]: https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white "Sass"
-[html5]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white "HTML5"
-[css3]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white "CSS3"
-[react]: https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white "React"
-[redux]: https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white "Redux"
-[mobx]: https://img.shields.io/badge/Mobx-E05D17?logo=mobx&logoColor=white "Mobx"
-[styledcomponents]: https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white "Styled Components"
-[nextjs]: https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=white "NextJS"
-[vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white "Vue.js"
-[patternlab]: https://img.shields.io/badge/Patternlab-1F1F1F?logo=patternlab&logoColor=white "Patternlab"
-[fractal]: https://img.shields.io/badge/Fractal-C23582?logo=fractal&logoColor=white "Fractal"
-[twig]: https://img.shields.io/badge/Twig-D3DA36?logo=twig&logoColor=white "Twig"
-[storybook]: https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white "Storybook"
-[nodejs]: https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white "NodeJS"
-[nestjs]: https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white "NestJS"
-[express]: https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=white "Express"
-[git]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white "Git"
-[yarn]: https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white "Yarn"
-[npm]: https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white "NPM"
-[webpack]: https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white "Webpack"
-[prettier]: https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white "Prettier"
-[keycloak]: https://img.shields.io/badge/Keycloak-FFFFFF?logo=keycloak&logoColor=white "Keycloak"
-[nrwl]: https://img.shields.io/badge/Nrwl-143057?logo=nrwl&logoColor=white "Nrwl"
+[esnext]: https://img.shields.io/badge/ESNext-F0D53B?logo=JavaScript&logoColor=000 'ECMAScript 6'
+[typescript]: https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white 'Typescript'
+[go]: https://img.shields.io/badge/Go-79d4fd?logo=go&logoColor=fff 'Go'
+
+[react]: https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white 'React'
+[nextjs]: https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=white 'NextJS'
+[angular]: https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white 'Angular'
+[vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white 'Vue.js'
+
+[mantine]: https://img.shields.io/badge/Mantine-339af0?logo=mantine&logoColor=000 'Mantine'
+[redux]: https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white 'Redux'
+[styledcomponents]: https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white 'Styled Components'
+[rxjs]: https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white 'RxJS'
+[ngxs]: https://img.shields.io/badge/NGXS-1D00FF?logo=ngxs&logoColor=white 'NGXS'
+[ngrx]: https://img.shields.io/badge/NGRX-4B314F?logo=ngrx&logoColor=white 'NGRX'
+
+[jest]: https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white 'Jest'
+[puppeteer]: https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white 'Puppeteer'
+
+[sass]: https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white 'Sass'
+[bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white 'Bootstrap'
+[html5]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white 'HTML5'
+[css3]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white 'CSS3'
+
+[nodejs]: https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white 'NodeJS'
+[express]: https://img.shields.io/badge/Express-FFFFFF?logo=express&logoColor=000 'Express'
+[nestjs]: https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white 'NestJS'
+
+[eslint]: https://img.shields.io/badge/Eslint-341bab?logo=eslint&logoColor=white 'Eslint'
+[prettier]: https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=white 'Prettier'
+[storybook]: https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white 'Storybook'
+
+[vite]: https://img.shields.io/badge/Vite-bb36fe?logo=Vite&logoColor=fff 'Vite'
+[webpack]: https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white 'Webpack'
+
+[yarn]: https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white 'Yarn'
+[pnpm]: https://img.shields.io/badge/Pnpm-f69220?logo=pnpm&logoColor=white 'Pnpm'
+[npm]: https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white 'NPM'
+
+[git]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white 'Git'
+[github]: https://img.shields.io/badge/Github-161b22?logo=github&logoColor=white 'Git'
+[bitbucket]: https://img.shields.io/badge/Bitbucket-0047b3?logo=bitbucket&logoColor=white 'Bitbucket'
+[jira]: https://img.shields.io/badge/Jira-003163?logo=jira&logoColor=white 'Jira'
