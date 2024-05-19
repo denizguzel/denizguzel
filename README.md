@@ -1,12 +1,12 @@
-## 🧶 Front-end Developer, curious about Back-end.
+## 🧶 Front-End Developer
 
 Languages
 
-![esnext] ![typescript] ![go]
+![esnext] ![typescript]
 
 Frameworks
 
-![react] ![nextjs] ![angular] ![vuejs]
+![angular] ![react] ![nextjs] ![vuejs]
 
 Libs
 
@@ -57,7 +57,6 @@ https://denizguzel.vercel.app/
 
 [esnext]: https://img.shields.io/badge/ESNext-F0D53B?logo=JavaScript&logoColor=000 'ECMAScript 6'
 [typescript]: https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white 'Typescript'
-[go]: https://img.shields.io/badge/Go-79d4fd?logo=go&logoColor=fff 'Go'
 
 [react]: https://img.shields.io/badge/React-45B8D8?logo=react&logoColor=white 'React'
 [nextjs]: https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=white 'NextJS'
